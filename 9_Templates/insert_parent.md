@@ -1,0 +1,1 @@
+`$= dv.current().file.inlinks`

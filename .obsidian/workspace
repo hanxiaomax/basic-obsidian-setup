@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "19a25a951838786f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2211ac01cffb708d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_HOME/_HOME.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6ffb3021896fe08",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ca6c6c747c522ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fba7bcfa3b311064",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "178ed89f29c12bc2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d605f10dd6e00bfa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8522a74c389f905b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278
+  },
+  "right": {
+    "id": "e1a5a9688878b6a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5ed09a0535c9d14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c70c7c78426cd143",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_HOME/_HOME.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e843a9f1d666caa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_HOME/_HOME.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb6234bb57bf5336",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_HOME/_HOME.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249,
+    "collapsed": true
+  },
+  "active": "2211ac01cffb708d",
+  "lastOpenFiles": [
+    "_HOME/_HOME.md",
+    "1_Seeds/Typescript.md",
+    "2_MOCs/Computer Science MOC.md",
+    "1_Seeds/VS Code.md",
+    "1_Seeds/插件开发obsidian发布到vuepress.md",
+    "3_Notes/基于 Obsidian 构建数字笔记.md",
+    "3_Notes/Obsidian publish.md",
+    "2_MOCs/数字笔记的实现和工具 MOC.md",
+    "2_MOCs/内存 MOC.md",
+    "2_MOCs/Linux 内存管理 MOC.md"
+  ]
+}

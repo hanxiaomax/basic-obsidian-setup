@@ -1,0 +1,206 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Typescript",
+      "path": "1_Seeds/Typescript.md"
+    },
+    {
+      "basename": "Computer Science MOC",
+      "path": "2_MOCs/Computer Science MOC.md"
+    },
+    {
+      "basename": "_HOME",
+      "path": "_HOME/_HOME.md"
+    },
+    {
+      "basename": "VS Code",
+      "path": "1_Seeds/VS Code.md"
+    },
+    {
+      "basename": "插件开发obsidian发布到vuepress",
+      "path": "1_Seeds/插件开发obsidian发布到vuepress.md"
+    },
+    {
+      "basename": "基于 Obsidian 构建数字笔记",
+      "path": "3_Notes/基于 Obsidian 构建数字笔记.md"
+    },
+    {
+      "basename": "Obsidian publish",
+      "path": "3_Notes/Obsidian publish.md"
+    },
+    {
+      "basename": "数字笔记的实现和工具 MOC",
+      "path": "2_MOCs/数字笔记的实现和工具 MOC.md"
+    },
+    {
+      "basename": "内存 MOC",
+      "path": "2_MOCs/内存 MOC.md"
+    },
+    {
+      "basename": "Linux 内存管理 MOC",
+      "path": "2_MOCs/Linux 内存管理 MOC.md"
+    },
+    {
+      "basename": "Linux 内核 MOC",
+      "path": "2_MOCs/Linux 内核 MOC.md"
+    },
+    {
+      "basename": "mind-map-of-linux.excalidraw",
+      "path": "Excalidraw/mind-map-of-linux.excalidraw.md"
+    },
+    {
+      "basename": "mind-map-of-linux",
+      "path": "Excalidraw/mind-map-of-linux.md"
+    },
+    {
+      "basename": "Linux MOC",
+      "path": "2_MOCs/Linux MOC.md"
+    },
+    {
+      "basename": "unlinked files output",
+      "path": "unlinked files output.md"
+    },
+    {
+      "basename": "操作系统 MOC",
+      "path": "2_MOCs/操作系统 MOC.md"
+    },
+    {
+      "basename": "Operating Systems-Three Easy Pieces",
+      "path": "7_Ref/Operating Systems-Three Easy Pieces.md"
+    },
+    {
+      "basename": "Life Hacker MOC",
+      "path": "2_MOCs/Life Hacker MOC.md"
+    },
+    {
+      "basename": "Obsidian 实用技巧",
+      "path": "3_Notes/Obsidian 实用技巧.md"
+    },
+    {
+      "basename": "Linux 网络系统 MOC",
+      "path": "2_MOCs/Linux 网络系统 MOC.md"
+    },
+    {
+      "basename": "Linux 进程管理 MOC",
+      "path": "2_MOCs/Linux 进程管理 MOC.md"
+    },
+    {
+      "basename": "__inet_stream_connect",
+      "path": "4_Gist/__inet_stream_connect.md"
+    },
+    {
+      "basename": "系统调用 connect 详解",
+      "path": "3_Notes/系统调用 connect 详解.md"
+    },
+    {
+      "basename": "系统调用 bind 详解",
+      "path": "3_Notes/系统调用 bind 详解.md"
+    },
+    {
+      "basename": "系统调用 socket 详解",
+      "path": "3_Notes/系统调用 socket 详解.md"
+    },
+    {
+      "basename": "obsidian转换为vuepress",
+      "path": "1_Seeds/obsidian转换为vuepress.md"
+    },
+    {
+      "basename": "PKM MOC",
+      "path": "2_MOCs/PKM MOC.md"
+    },
+    {
+      "basename": "数字笔记的方法论 MOC",
+      "path": "2_MOCs/数字笔记的方法论 MOC.md"
+    },
+    {
+      "basename": "Linux 新机器配置",
+      "path": "3_Notes/Linux 新机器配置.md"
+    },
+    {
+      "basename": "@SOP",
+      "path": "1_Seeds/@SOP.md"
+    },
+    {
+      "basename": "zsh",
+      "path": "1_Seeds/zsh.md"
+    },
+    {
+      "basename": "Jetson",
+      "path": "1_Seeds/Jetson.md"
+    },
+    {
+      "basename": "编译Linux内核",
+      "path": "3_Notes/编译Linux内核.md"
+    },
+    {
+      "basename": "@body-training",
+      "path": "5_Topics/@body-training.md"
+    },
+    {
+      "basename": "Linux 常用操作和工作流",
+      "path": "3_Notes/Linux 常用操作和工作流.md"
+    },
+    {
+      "basename": "驱动数据结构",
+      "path": "3_Notes/驱动数据结构.md"
+    },
+    {
+      "basename": "Linux 命令行与 shell 编程 MOC",
+      "path": "2_MOCs/Linux 命令行与 shell 编程 MOC.md"
+    },
+    {
+      "basename": "linux",
+      "path": "1_Seeds/linux.md"
+    },
+    {
+      "basename": "`$= dv.current().file.inlinks `",
+      "path": "1_Seeds/`$= dv.current().file.inlinks `.md"
+    },
+    {
+      "basename": "\"Linux 内核 MOC\"",
+      "path": "1_Seeds/\"Linux 内核 MOC\".md"
+    },
+    {
+      "basename": "Linux 常用命令",
+      "path": "3_Notes/Linux 常用命令.md"
+    },
+    {
+      "basename": "Obsidian 设置",
+      "path": "3_Notes/Obsidian 设置.md"
+    },
+    {
+      "basename": "CSS 条件选择",
+      "path": "3_Notes/CSS 条件选择.md"
+    },
+    {
+      "basename": "TLB 有效位和 page 有效位的区别",
+      "path": "3_Notes/TLB 有效位和 page 有效位的区别.md"
+    },
+    {
+      "basename": "Linux 字符设备驱动",
+      "path": "3_Notes/Linux 字符设备驱动.md"
+    },
+    {
+      "basename": "shell编程专项——文件和文件系统",
+      "path": "3_Notes/shell编程专项——文件和文件系统.md"
+    },
+    {
+      "basename": "shell编程专项——awk语言",
+      "path": "3_Notes/shell编程专项——awk语言.md"
+    },
+    {
+      "basename": "ssh 端口转发",
+      "path": "3_Notes/ssh 端口转发.md"
+    },
+    {
+      "basename": "Linux IPC 共享内存模型",
+      "path": "3_Notes/Linux IPC 共享内存模型.md"
+    },
+    {
+      "basename": "How I read books-setting up a new system",
+      "path": "3_Notes/How I read books-setting up a new system.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}
