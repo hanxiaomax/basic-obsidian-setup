@@ -59,9 +59,9 @@ common plugins included.(tick means I enabled it by default )
 - `6_Ref`
 - `7_Templates`: Home of Template note
 - `8_Kanban`
-- Excalidraw: Home of Excalidraw files and svg
-- _HOME: landing page
-- font: font file for Excalidraw's 4th font
+- `Excalidraw`: Home of Excalidraw files and svg
+- `font`: font file for Excalidraw's 4th font
+- `_HOME`: landing page notes
 
 ## Tags
 I use `[[@tag]]` style tags instead of the `#tag` style, all tags are actually a note with some dataviewjs scripts to query the related notes.
