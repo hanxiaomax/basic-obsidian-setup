@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:Excalidraw -path:9_Templates",
+  "search": "tag:#topic",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -8,37 +8,30 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:/^@.*/",
+      "query": "tag:#concept",
       "color": {
         "a": 1,
-        "rgb": 5415904
+        "rgb": 16114196
       }
     },
     {
-      "query": "file:/.MOC/",
+      "query": "tag:#topic",
       "color": {
         "a": 1,
-        "rgb": 3728740
-      }
-    },
-    {
-      "query": "file:/^_.*/",
-      "color": {
-        "a": 1,
-        "rgb": 15728640
+        "rgb": 15348964
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -2.6,
-  "nodeSizeMultiplier": 1.46590757978723,
-  "lineSizeMultiplier": 2.20424700797872,
+  "textFadeMultiplier": -2.8,
+  "nodeSizeMultiplier": 1.16472355769231,
+  "lineSizeMultiplier": 0.554326923076923,
   "collapse-forces": false,
-  "centerStrength": 0.333147321428571,
-  "repelStrength": 13.9285714285714,
-  "linkStrength": 0.776387117346939,
-  "linkDistance": 148,
-  "scale": 0.07569614409302239,
-  "close": false
+  "centerStrength": 0,
+  "repelStrength": 10.4292582417582,
+  "linkStrength": 0.634787087912088,
+  "linkDistance": 151,
+  "scale": 0.036966345937455715,
+  "close": true
 }

@@ -1,13 +1,13 @@
 {
-  "baseFontSize": 19,
+  "accentColor": "",
   "theme": "moonstone",
-  "translucency": false,
-  "cssTheme": "Deep Work",
-  "baseFontSizeAction": true,
+  "cssTheme": "Minimal",
   "enabledCssSnippets": [
-    "bullet-point-relationship-lines",
-    "custom-icons-for-specific-folders",
-    "outliner-for-the-outline-and-file-explorer",
-    "supercharged-links-gen"
-  ]
+    "highlight-pen",
+    "codeblock-advance",
+    "MCL Multi Column",
+    "supercharged-links-gen",
+    "custom-icons-for-specific-folders"
+  ],
+  "baseFontSize": 20
 }

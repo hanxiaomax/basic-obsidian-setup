@@ -1,0 +1,5 @@
+*.svg
+*.local
+.zshrc
+.DS_Store/*
+*.png

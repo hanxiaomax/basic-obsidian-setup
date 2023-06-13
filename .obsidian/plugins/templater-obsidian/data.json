@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "9_Templates",
+  "templates_folder": "Utilities/Templates",
   "templates_pairs": [
     [
       "",
@@ -8,9 +8,10 @@
     ]
   ],
   "trigger_on_file_creation": false,
+  "auto_jump_to_cursor": false,
   "enable_system_commands": true,
   "shell_path": "",
-  "user_scripts_folder": "9_Templates/Scripts",
+  "user_scripts_folder": "Utilities/Templates/Scripts",
   "enable_folder_templates": true,
   "folder_templates": [
     {
@@ -19,10 +20,7 @@
     }
   ],
   "syntax_highlighting": true,
-  "enabled_templates_hotkeys": [
-    ""
-  ],
-  "startup_templates": [
-    ""
-  ]
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [],
+  "enable_ribbon_icon": true
 }

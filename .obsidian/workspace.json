@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "d1b412ca7ee012d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "adb083d46d2e6218",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8044d2ddecf7d60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topics/PKM/笔记思路.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecc9c071af47198c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/OS/协程 Co-routines.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0cbefa61eddfacad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topics/Programming/协程和asyncio.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a425294957815dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "422ceee9351a0557",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe3711b10f39bd8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f9ea33bcd5365f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "git",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40c6edfed5bf42c5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "a14d62e8e347a46c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5
+  },
+  "right": {
+    "id": "90fa8320a3ef3c6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a93afc37dcd0c34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "937fac6daffd1e64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Topics/Programming/协程和asyncio.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e1c14feb843370d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Topics/Programming/协程和asyncio.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": true,
+      "customizable-sidebar:Excalidraw: Create a new drawing - IN A NEW PANE - and embed into active document": false,
+      "customizable-sidebar:QuickAdd: New Topic": false,
+      "customizable-sidebar:QuickAdd: New Concept": false,
+      "command-palette:Open command palette": true,
+      "templates:Insert template": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "0cbefa61eddfacad",
+  "lastOpenFiles": [
+    "Inbox/分段和分页的主要区别.md",
+    "Concepts/OS/协程 Co-routines.md",
+    "Concepts/OS/进程模型.md",
+    "Concepts/OS/进程.md",
+    "Notes/OSTEP/OSTEP-4-进程.md",
+    "Topics/Programming/协程和asyncio.md",
+    "Topics/GPT/GPT-Prompt.md",
+    "Excalidraw/笔记思路 20230310.excalidraw.md",
+    "Topics/PKM/笔记思路.md",
+    "Topics/linux-as-workingEnv-tools-and-skills/Git Command.md",
+    "Topics/network/CCNA/CCNA MOC.md",
+    "Topics/network/TCP-IP/网络协议基础.md",
+    "Topics/network/CCNA/交换机.md",
+    "Topics/network/CCNA/Wi-Fi Network.md",
+    "Topics/network/TCP-IP",
+    "Topics/system-design/工作结构分解图 WBS.md",
+    "Topics/network/Cloud",
+    "Topics/network/CCNA",
+    "Topics/system-design/UML MOC.md",
+    "Topics/system-design/活动图 Activity Diagram.md",
+    "Topics/system-design/时序图 Sequence Diagram.md",
+    "Topics/system-design/设计模式 MOC.md",
+    "Topics/system-design/用例图 Use case Diagram.md",
+    "Topics/system-design/状态图 State Diagrams.md",
+    "Topics/system-design/组件图 Component Diagram.md",
+    "Topics/system-design/Plantuml常用指令.md",
+    "Topics/system-design/plantuml样式和排版.md",
+    "Topics/network/CCNA/WLAN基础概念.md",
+    "Topics/GPT",
+    "Topics/Git.md",
+    "ZMOC/未命名文件夹的副本6",
+    "ZMOC/未命名文件夹的副本5",
+    "ZMOC/未命名文件夹的副本4",
+    "ZMOC/未命名文件夹的副本3",
+    "ZMOC/未命名文件夹的副本2",
+    "ZMOC/未命名文件夹的副本",
+    "Utilities/Attachment/gpt-prompts.jpg",
+    "Utilities/Attachment/gti-cheatsheet.jpg",
+    "Pasted Image 20230405175520_866.png",
+    "Pasted Image 20230405180515_093.png",
+    "icon-key.png",
+    "Utilities/Attachment/img-diffie-color.png",
+    "Pasted Image 20230324220415_245.png",
+    "Pasted Image 20230324220146_532.png",
+    "Pasted Image 20230319203554_890.png",
+    "Pasted Image 20230319202831_229.png",
+    "Topics/data-structure-and-algo/数据结构与算法canvas.canvas"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "type": "search",
+      "title": "file:/(outline)/",
+      "query": "file:/(outline)/"
+    },
+    {
+      "type": "search",
+      "title": "block:/\\PROCESS.tag/",
+      "query": "block:/\\PROCESS.tag/"
+    },
+    {
+      "type": "search",
+      "title": "file:/.*MOC/",
+      "query": "file:/.*MOC/"
+    },
+    {
+      "type": "file",
+      "title": "_HOME",
+      "path": "✅ _HOME.md"
+    },
+    {
+      "type": "file",
+      "title": "Computer Science MOC",
+      "path": "Gateways/Computer Science MOC.md"
+    },
+    {
+      "type": "file",
+      "title": "Topics MOC",
+      "path": "Tags/Topics.md"
+    },
+    {
+      "type": "file",
+      "title": "操作系统实战 MOC",
+      "path": "Notes/GeekTime-Build-OS/操作系统内核实战 MOC.md"
+    },
+    {
+      "type": "file",
+      "title": "Linux 常用操作和工作流",
+      "path": "Topics/linux-as-workingEnv-tools-and-skills/Linux 常用操作和工作流.md"
+    },
+    {
+      "type": "file",
+      "title": "icon MOC",
+      "path": "Gateways/icon MOC.md"
+    },
+    {
+      "type": "file",
+      "title": "Linux 进程管理 MOC",
+      "path": "Gateways/Linux 进程管理 MOC.md"
+    },
+    {
+      "type": "file",
+      "title": "OSTEP-45-数据完整性和数据保护",
+      "path": "Notes/OSTEP/OSTEP-45-数据完整性和数据保护.md"
+    },
+    {
+      "type": "file",
+      "title": "Concepts MOC",
+      "path": "Concepts MOC.md"
+    },
+    {
+      "type": "file",
+      "title": "笔记思路",
+      "path": "Topics/PKM/笔记思路.md"
+    }
+  ]
+}

@@ -1,33 +1,19 @@
 {
   "sidebarCommands": [
     {
-      "id": "templater-obsidian:create-new-note-from-template",
-      "name": "Templater: Create new note from template",
-      "hotkeys": [
-        {
-          "modifiers": [
-            "Alt"
-          ],
-          "key": "n"
-        }
-      ],
+      "id": "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed",
+      "name": "Excalidraw: Create a new drawing - IN A NEW PANE - and embed into active document",
       "icon": "create-new"
     },
     {
-      "id": "customizable-sidebar:theme-toggle",
-      "name": "Customizable Sidebar: Toggle Dark/Light Mode",
-      "icon": "feather-eye"
+      "id": "quickadd:choice:97af0fd5-de43-417f-8a9a-a93954fe44b1",
+      "name": "QuickAdd: New Topic",
+      "icon": "note-glyph"
     },
     {
-      "id": "obsidian-emoji-toolbar:emoji-picker:open-picker",
-      "name": "Emoji Toolbar: Open emoji picker",
-      "hotkeys": [],
-      "icon": "feather-meh"
-    },
-    {
-      "id": "sliding-panes-obsidian:toggle-sliding-panes",
-      "name": "Sliding Panes (Andy's Mode): Toggle Sliding Panes",
-      "icon": "feather-sliders"
+      "id": "quickadd:choice:4b99bc30-b2e9-492e-9cd5-7aeab74d6b20",
+      "name": "QuickAdd: New Concept",
+      "icon": "plus-with-circle"
     }
   ],
   "hiddenCommands": []

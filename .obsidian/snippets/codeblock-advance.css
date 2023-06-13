@@ -1,0 +1,103 @@
+/* Foldable code blocks with Cobalt2-like color theme */
+.markdown-preview-section pre,
+.editor-preview pre {
+    max-height: 300px;
+    overflow-y: scroll;
+    background-color: #193549;
+    color: #b9c0cb;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+
+/* Syntax highlighting colors */
+pre code[class*="language-"],
+pre code[class*="language-"] span.token {
+  color: #b9c0cb;
+  font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+pre code[class*="language-"] span.token.punctuation {
+  color: #f8f8f2;
+}
+
+pre code[class*="language-"] span.token.keyword {
+  color: #ff9d00;
+}
+
+pre code[class*="language-"] span.token.tag {
+  color: #ff9d00;
+}
+
+pre code[class*="language-"] span.token.comment {
+  color: #676b79;
+  font-style: italic;
+}
+
+pre code[class*="language-"] span.token.function {
+  color: #6ec5ff;
+}
+
+pre code[class*="language-"] span.token.string {
+  color: #1ab394;
+}
+
+pre code[class*="language-"] span.token.operator {
+  color: #f8f8f2;
+}
+
+
+.cm-s-obsidian span.cm-inline-code,
+.markdown-rendered code{
+  color: #000000;
+  font-size: var(--code-size);
+  background-color: #eee;
+  vertical-align: baseline;
+  box-shadow: 0px 1px 4px -2px;
+  border-radius: var(--radius-s);
+  font-size: var(--code-size);
+  padding: 0.1em 0.25em;
+}
+
+
+
+a[data-link-tags~="#concept"],
+span.data-link-text[data-link-tags~="#concept"] {
+  color: black;
+  background-color: #d2e6ad;
+  border-radius: 5px;
+  padding: 3px 5px;
+  /* box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2); */
+}
+
+
+a[data-link-tags~="#topic"],
+span.data-link-text[data-link-tags~="#topic"] {
+  color: black;
+  background-color: #bac1ff;
+  border-radius: 5px;
+  padding: 3px 5px;
+  /* box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2); */
+}
+
+/* a[data-link-tags~="#note"],
+span.data-link-text[data-link-tags~="#note"] {
+  color: black;
+  background-color: #c294f335;
+  border-radius: 5px;
+  padding: 2px 2px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+}
+ */
+
+a.is-unresolved,
+span.is-unresolved {
+  color: #de0a0a!important;
+}
+
+
+h2, .markdown-rendered h2:before{
+  content:"🌱 "
+}

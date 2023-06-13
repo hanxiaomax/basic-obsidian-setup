@@ -1,206 +1,207 @@
 {
   "recentFiles": [
     {
-      "basename": "_HOME",
-      "path": "_HOME/_HOME.md"
+      "basename": "协程和asyncio",
+      "path": "Topics/Programming/协程和asyncio.md"
     },
     {
-      "basename": "Typescript",
-      "path": "1_Seeds/Typescript.md"
+      "basename": "分段和分页的主要区别",
+      "path": "Inbox/分段和分页的主要区别.md"
     },
     {
-      "basename": "Computer Science MOC",
-      "path": "2_MOCs/Computer Science MOC.md"
+      "basename": "协程 Co-routines",
+      "path": "Concepts/OS/协程 Co-routines.md"
     },
     {
-      "basename": "VS Code",
-      "path": "1_Seeds/VS Code.md"
+      "basename": "进程模型",
+      "path": "Concepts/OS/进程模型.md"
     },
     {
-      "basename": "插件开发obsidian发布到vuepress",
-      "path": "1_Seeds/插件开发obsidian发布到vuepress.md"
+      "basename": "进程",
+      "path": "Concepts/OS/进程.md"
     },
     {
-      "basename": "基于 Obsidian 构建数字笔记",
-      "path": "3_Notes/基于 Obsidian 构建数字笔记.md"
+      "basename": "OSTEP-4-进程",
+      "path": "Notes/OSTEP/OSTEP-4-进程.md"
     },
     {
-      "basename": "Obsidian publish",
-      "path": "3_Notes/Obsidian publish.md"
+      "basename": "GPT-Prompt",
+      "path": "Topics/GPT/GPT-Prompt.md"
     },
     {
-      "basename": "数字笔记的实现和工具 MOC",
-      "path": "2_MOCs/数字笔记的实现和工具 MOC.md"
+      "basename": "笔记思路 20230310.excalidraw",
+      "path": "Excalidraw/笔记思路 20230310.excalidraw.md"
     },
     {
-      "basename": "内存 MOC",
-      "path": "2_MOCs/内存 MOC.md"
+      "basename": "Git.fastforward",
+      "path": "Topics/linux-as-workingEnv-tools-and-skills/Git.fastforward.md"
     },
     {
-      "basename": "Linux 内存管理 MOC",
-      "path": "2_MOCs/Linux 内存管理 MOC.md"
-    },
-    {
-      "basename": "Linux 内核 MOC",
-      "path": "2_MOCs/Linux 内核 MOC.md"
-    },
-    {
-      "basename": "mind-map-of-linux.excalidraw",
-      "path": "Excalidraw/mind-map-of-linux.excalidraw.md"
-    },
-    {
-      "basename": "mind-map-of-linux",
-      "path": "Excalidraw/mind-map-of-linux.md"
-    },
-    {
-      "basename": "Linux MOC",
-      "path": "2_MOCs/Linux MOC.md"
-    },
-    {
-      "basename": "unlinked files output",
-      "path": "unlinked files output.md"
-    },
-    {
-      "basename": "操作系统 MOC",
-      "path": "2_MOCs/操作系统 MOC.md"
-    },
-    {
-      "basename": "Operating Systems-Three Easy Pieces",
-      "path": "7_Ref/Operating Systems-Three Easy Pieces.md"
-    },
-    {
-      "basename": "Life Hacker MOC",
-      "path": "2_MOCs/Life Hacker MOC.md"
-    },
-    {
-      "basename": "Obsidian 实用技巧",
-      "path": "3_Notes/Obsidian 实用技巧.md"
-    },
-    {
-      "basename": "Linux 网络系统 MOC",
-      "path": "2_MOCs/Linux 网络系统 MOC.md"
-    },
-    {
-      "basename": "Linux 进程管理 MOC",
-      "path": "2_MOCs/Linux 进程管理 MOC.md"
-    },
-    {
-      "basename": "__inet_stream_connect",
-      "path": "4_Gist/__inet_stream_connect.md"
-    },
-    {
-      "basename": "系统调用 connect 详解",
-      "path": "3_Notes/系统调用 connect 详解.md"
-    },
-    {
-      "basename": "系统调用 bind 详解",
-      "path": "3_Notes/系统调用 bind 详解.md"
-    },
-    {
-      "basename": "系统调用 socket 详解",
-      "path": "3_Notes/系统调用 socket 详解.md"
-    },
-    {
-      "basename": "obsidian转换为vuepress",
-      "path": "1_Seeds/obsidian转换为vuepress.md"
-    },
-    {
-      "basename": "PKM MOC",
-      "path": "2_MOCs/PKM MOC.md"
-    },
-    {
-      "basename": "数字笔记的方法论 MOC",
-      "path": "2_MOCs/数字笔记的方法论 MOC.md"
-    },
-    {
-      "basename": "Linux 新机器配置",
-      "path": "3_Notes/Linux 新机器配置.md"
-    },
-    {
-      "basename": "@SOP",
-      "path": "1_Seeds/@SOP.md"
-    },
-    {
-      "basename": "zsh",
-      "path": "1_Seeds/zsh.md"
-    },
-    {
-      "basename": "Jetson",
-      "path": "1_Seeds/Jetson.md"
-    },
-    {
-      "basename": "编译Linux内核",
-      "path": "3_Notes/编译Linux内核.md"
-    },
-    {
-      "basename": "@body-training",
-      "path": "5_Topics/@body-training.md"
+      "basename": "Git Command",
+      "path": "Topics/linux-as-workingEnv-tools-and-skills/Git Command.md"
     },
     {
       "basename": "Linux 常用操作和工作流",
-      "path": "3_Notes/Linux 常用操作和工作流.md"
+      "path": "Topics/linux-as-workingEnv-tools-and-skills/Linux 常用操作和工作流.md"
     },
     {
-      "basename": "驱动数据结构",
-      "path": "3_Notes/驱动数据结构.md"
+      "basename": "笔记思路",
+      "path": "Topics/PKM/笔记思路.md"
     },
     {
-      "basename": "Linux 命令行与 shell 编程 MOC",
-      "path": "2_MOCs/Linux 命令行与 shell 编程 MOC.md"
-    },
-    {
-      "basename": "linux",
-      "path": "1_Seeds/linux.md"
-    },
-    {
-      "basename": "`$= dv.current().file.inlinks `",
-      "path": "1_Seeds/`$= dv.current().file.inlinks `.md"
-    },
-    {
-      "basename": "\"Linux 内核 MOC\"",
-      "path": "1_Seeds/\"Linux 内核 MOC\".md"
+      "basename": "CCNA MOC",
+      "path": "Topics/network/CCNA/CCNA MOC.md"
     },
     {
       "basename": "Linux 常用命令",
-      "path": "3_Notes/Linux 常用命令.md"
+      "path": "Topics/linux-as-workingEnv-tools-and-skills/Linux 常用命令.md"
     },
     {
-      "basename": "Obsidian 设置",
-      "path": "3_Notes/Obsidian 设置.md"
+      "basename": "数字证书——工具和命令",
+      "path": "Notes/security/数字证书——工具和命令.md"
     },
     {
-      "basename": "CSS 条件选择",
-      "path": "3_Notes/CSS 条件选择.md"
+      "basename": "网络协议基础",
+      "path": "Topics/network/TCP-IP/网络协议基础.md"
     },
     {
-      "basename": "TLB 有效位和 page 有效位的区别",
-      "path": "3_Notes/TLB 有效位和 page 有效位的区别.md"
+      "basename": "交换机",
+      "path": "Topics/network/CCNA/交换机.md"
     },
     {
-      "basename": "Linux 字符设备驱动",
-      "path": "3_Notes/Linux 字符设备驱动.md"
+      "basename": "Wi-Fi Network",
+      "path": "Topics/network/CCNA/Wi-Fi Network.md"
     },
     {
-      "basename": "shell编程专项——文件和文件系统",
-      "path": "3_Notes/shell编程专项——文件和文件系统.md"
+      "basename": "工作结构分解图 WBS",
+      "path": "Topics/system-design/工作结构分解图 WBS.md"
     },
     {
-      "basename": "shell编程专项——awk语言",
-      "path": "3_Notes/shell编程专项——awk语言.md"
+      "basename": "UML MOC",
+      "path": "Topics/system-design/UML MOC.md"
     },
     {
-      "basename": "ssh 端口转发",
-      "path": "3_Notes/ssh 端口转发.md"
+      "basename": "活动图 Activity Diagram",
+      "path": "Topics/system-design/活动图 Activity Diagram.md"
     },
     {
-      "basename": "Linux IPC 共享内存模型",
-      "path": "3_Notes/Linux IPC 共享内存模型.md"
+      "basename": "时序图 Sequence Diagram",
+      "path": "Topics/system-design/时序图 Sequence Diagram.md"
     },
     {
-      "basename": "How I read books-setting up a new system",
-      "path": "3_Notes/How I read books-setting up a new system.md"
+      "basename": "设计模式 MOC",
+      "path": "Topics/system-design/设计模式 MOC.md"
+    },
+    {
+      "basename": "用例图 Use case Diagram",
+      "path": "Topics/system-design/用例图 Use case Diagram.md"
+    },
+    {
+      "basename": "状态图 State Diagrams",
+      "path": "Topics/system-design/状态图 State Diagrams.md"
+    },
+    {
+      "basename": "组件图 Component Diagram",
+      "path": "Topics/system-design/组件图 Component Diagram.md"
+    },
+    {
+      "basename": "Plantuml常用指令",
+      "path": "Topics/system-design/Plantuml常用指令.md"
+    },
+    {
+      "basename": "plantuml样式和排版",
+      "path": "Topics/system-design/plantuml样式和排版.md"
+    },
+    {
+      "basename": "WLAN基础概念",
+      "path": "Topics/network/CCNA/WLAN基础概念.md"
+    },
+    {
+      "basename": "Topics",
+      "path": "Tags/Topics.md"
+    },
+    {
+      "basename": "GPT（GUID Partition Table）",
+      "path": "Topics/computer-organization/GPT（GUID Partition Table）.md"
+    },
+    {
+      "basename": "GPT-inside",
+      "path": "Excalidraw/GPT-inside.md"
+    },
+    {
+      "basename": "Wifi-Setup-and-Optimization",
+      "path": "Topics/network/CCNA/Wifi-Setup-and-Optimization.md"
+    },
+    {
+      "basename": "Wi-Fi performance profile",
+      "path": "Topics/network/CCNA/Wi-Fi performance profile.md"
+    },
+    {
+      "basename": "寄存器 MOC",
+      "path": "MOC/寄存器 MOC.md"
+    },
+    {
+      "basename": "Linux 内核 MOC",
+      "path": "MOC/Linux 内核 MOC.md"
+    },
+    {
+      "basename": "icon MOC",
+      "path": "MOC/icon MOC.md"
+    },
+    {
+      "basename": "Git MOC",
+      "path": "MOC/Git MOC.md"
+    },
+    {
+      "basename": "Git - ugit-MOC",
+      "path": "MOC/Git - ugit-MOC.md"
+    },
+    {
+      "basename": "CPP MOC",
+      "path": "MOC/CPP MOC.md"
+    },
+    {
+      "basename": "体系结构 MOC",
+      "path": "MOC/体系结构 MOC.md"
+    },
+    {
+      "basename": "数字笔记的方法论 MOC",
+      "path": "MOC/数字笔记的方法论 MOC.md"
+    },
+    {
+      "basename": "system engineering learning",
+      "path": "Topics/system-design/system engineering learning.md"
+    },
+    {
+      "basename": "gpt-prompts",
+      "path": "Utilities/Attachment/gpt-prompts.jpg"
+    },
+    {
+      "basename": "gti-cheatsheet",
+      "path": "Utilities/Attachment/gti-cheatsheet.jpg"
+    },
+    {
+      "basename": "@security",
+      "path": "Tags/@security.md"
+    },
+    {
+      "basename": "ugit",
+      "path": "Notes/Git/ugit.md"
+    },
+    {
+      "basename": "Gateways",
+      "path": "Gateways.md"
+    },
+    {
+      "basename": "Concepts MOC",
+      "path": "Concepts MOC.md"
+    },
+    {
+      "basename": "Digital-Garden.map",
+      "path": "Digital-Garden.map.md"
     }
   ],
   "omittedPaths": [],
-  "maxLength": null
+  "maxLength": null,
+  "openType": "tab"
 }

@@ -1,7 +1,7 @@
 {
   "style": "number",
   "min_depth": 2,
-  "max_depth": 6,
+  "max_depth": 4,
   "externalStyle": "None",
   "supportAllMatchers": false,
   "allow_inconsistent_headings": false,
